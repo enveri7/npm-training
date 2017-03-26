@@ -1,4 +1,4 @@
-##Nodejs, express server and bower training  
+## Nodejs, express server and bower training  
 
 ### Run the app with the two following commands:  
 $ npm install  
